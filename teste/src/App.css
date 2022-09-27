@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  display:flex;
+}
+li {
+  list-style: none;
+}
+.menu{
+
+  display:flex;
+  flex-direction: row;
+  gap: 150px;
+  align-items: center;
+  position: absolute;
+  top: 1%;
+
+
+}
